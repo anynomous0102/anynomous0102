@@ -29,9 +29,63 @@
 
 ---
 
+### 💼 LinkedIn — Headline & About
+
+> **Copy-paste this directly into your LinkedIn profile**
+
+**Headline** *(update under your name on LinkedIn — replaces "Aspiring AI/ML Engineer"):*
+
+```
+AI Engineer · RAG Pipelines · Agentic Workflows · LangChain · Qdrant · FastAPI | Google GenAI Ambassador 📍 Noida, India
+```
+
+---
+
+**About / Summary** *(replaces your current short paragraph — paste into the About section):*
+
+```
+I build AI-native systems that work in production — not just demos.
+
+My work spans distributed agentic RAG platforms (AURA), production NLP classifiers
+achieving 88% F1, and intelligence analytics pipelines for 5,000+ senior stakeholders.
+I care about the full stack: from prompt engineering and vector retrieval to ETL
+pipelines, CI/CD, and post-launch monitoring.
+
+🔧 Stack: Python · LangChain · LlamaIndex · Qdrant · FAISS · FastAPI · PyTorch ·
+Docker · Azure · BERT · SpaCy
+
+🏆 Google Student Ambassador (Gemini GenAI) · Dell Technologies AI Hub: MCP Server
+Deployment · AICTE Certified: AI/ML NLP Classifiers · Deloitte Data Analytics
+Virtual Internship
+
+📌 Currently finishing B.Sc. CS at University of Delhi (ARS College), graduating
+May 2026. Focus: Distributed Systems · Machine Learning · Agentic AI
+
+💬 Ask me about RAG architectures, agentic workflow design, LLM fine-tuning,
+or building AI systems with real production constraints.
+
+📩 Open to AI Engineer / ML Engineer roles in India (remote or hybrid).
+Reach me at ayushmanindia2003@gmail.com
+```
+
+---
+
+**Skills to add on LinkedIn** *(go to Skills section → Add skill → search each one):*
+
+`Large Language Models` · `Prompt Engineering` · `RAG Pipelines` · `Agentic Workflows` · `LangChain` · `Vector Databases` · `Python` · `FastAPI` · `Natural Language Processing` · `Anomaly Detection` · `Machine Learning` · `Docker` · `Azure` · `CI/CD` · `Distributed Systems`
+
+---
+
+**Featured Section** *(pin these 3 things in order):*
+1. 📌 Link to your AURA GitHub repo (add a screenshot as thumbnail)
+2. 📄 Upload your resume PDF directly to LinkedIn
+3. 📝 Write a short post about AURA or a lesson from your AICTE internship
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ayushman-pandey-4333442a2](https://www.linkedin.com/in/ayushman-pandey-4333442a2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman-pandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushman-pandey-4333442a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman-pandey" height="30" width="40" /></a>
 </p>
 
 ---
